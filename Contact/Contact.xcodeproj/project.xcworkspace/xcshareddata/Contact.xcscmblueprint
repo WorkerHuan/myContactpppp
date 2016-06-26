@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "81FDBB9C739D25B1D44CA0FBD16C007203BC2753",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F69FCB9505141ECB60340E0DF082A119ACDE9F36" : 0,
+    "81FDBB9C739D25B1D44CA0FBD16C007203BC2753" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DD5E1BC2-064F-4A57-A22E-A7F0476CEA75",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F69FCB9505141ECB60340E0DF082A119ACDE9F36" : "",
+    "81FDBB9C739D25B1D44CA0FBD16C007203BC2753" : "Contact\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Contact",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Contact.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/WorkerHuan\/tongxunlu3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "81FDBB9C739D25B1D44CA0FBD16C007203BC2753"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/WorkerHuan\/tongxunlu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F69FCB9505141ECB60340E0DF082A119ACDE9F36"
+    }
+  ]
+}
